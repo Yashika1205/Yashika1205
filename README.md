@@ -1,4 +1,6 @@
 
+
+
 <div align="center">
 
 <img src="./banner.svg" width="100%" alt="Yashika Singh - AI Engineer"/>
@@ -17,19 +19,31 @@ Building AI applications with Machine Learning, LLMs and RAG.
 
 ### `$ whoami`
 
-🎓 Computer Science undergraduate at NSUT, Delhi  
-🧠 Interested in AI/ML, NLP, Generative AI and Agentic AI  
+🎓 Computer Science undergraduate at NSUT, Delhi
+
+🧠 Interested in AI/ML, NLP, Generative AI and Agentic AI
+
 🛠️ Building practical AI-powered applications
 
 ### `$ tech_stack`
 
-**Languages:** Python · C++ · SQL · C
+**Languages**
 
-**AI/ML:** PyTorch · Scikit-learn · Hugging Face · Transformers
+`Python` · `C++` · `SQL` · `C`
 
-**GenAI:** LLMs · RAG · LangChain · LangGraph · FAISS · Tool Calling
+**AI / Machine Learning**
 
-**Tools:** Git · GitHub · Streamlit · Vertex AI · BigQuery
+`PyTorch` · `Scikit-learn` · `Hugging Face` · `Transformers`
+
+**Generative AI**
+
+`LLMs` · `RAG` · `LangChain` · `LangGraph` · `FAISS` · `Tool Calling`
+
+**Tools**
+
+`Git` · `GitHub` · `Streamlit` · `Vertex AI` · `BigQuery`
+
+---
 
 ### `$ projects`
 
@@ -48,23 +62,25 @@ Turns a text prompt into an emotion-driven visual moodboard.
 A conversational assistant for asking questions about YouTube videos.
 
 - Retrieval-Augmented Generation (RAG)
-- FAISS-based semantic retrieval
+- Semantic retrieval using FAISS and sentence embeddings
 - Python · Streamlit · LangChain · Groq
 
 **03. AI Chatbot Testing Framework**
 
-Evaluates chatbot quality and conversational usability.
+A framework for evaluating chatbot quality and conversational usability.
 
 - Response correctness and semantic similarity
 - Memory consistency and toxicity evaluation
+
+---
 
 ### `$ github_stats`
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Yashika1205&show_icons=true&theme=midnight-purple&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Yashika1205&show_icons=true&theme=midnight-purple&hide_border=true&title_color=C084FC&icon_color=A78BFA" height="165" alt="GitHub statistics"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashika1205&layout=compact&theme=midnight-purple&hide_border=true" height="165"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashika1205&layout=compact&theme=midnight-purple&hide_border=true&title_color=C084FC" height="165" alt="Most used programming languages"/>
 
 </div>
 
@@ -75,4 +91,3 @@ Evaluates chatbot quality and conversational usability.
 *Learning · Building · Shipping*
 
 </div>
-
