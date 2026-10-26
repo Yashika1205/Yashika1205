@@ -51,7 +51,6 @@ learn deeply. build thoughtfully. evaluate carefully. ship consistently.
 | :--- | :--- |
 | **● BUILDING** | **MoodMatch** — an emotion-driven AI design assistant that converts natural-language prompts into personalized visual moodboards. |
 | **● EXPLORING** | **AskTube AI** — a retrieval-augmented chatbot for asking questions about YouTube video content. |
-| **◐ IMPROVING** | **AI Chatbot Testing Framework** — evaluating response correctness, semantic similarity, memory consistency and toxicity. |
 | **● OPEN TO** | AI/ML Engineering, Generative AI and Software Engineering opportunities. |
 
 ---
