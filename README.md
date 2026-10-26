@@ -3,83 +3,202 @@
 
 <img src="./banner.svg" width="100%" alt="Yashika Singh — AI/ML Engineer"/>
 
-### AI / ML Engineer · GenAI Developer · Software Engineer
+<br/>
 
-Building intelligent applications that connect machine learning, language models, and real-world problems.
+<a href="https://git.io/typing-svg">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=C084FC&center=true&vCenter=true&width=650&lines=AI+%2F+ML+Engineer;Generative+AI+Developer;Building+with+LLMs+%26+RAG;Turning+Ideas+Into+AI+Applications" alt="Typing Animation"/>
+</a>
 
-[GitHub](https://github.com/Yashika1205) · [LinkedIn](YOUR_LINKEDIN_URL) · [Résumé](YOUR_RESUME_URL)
+<br/><br/>
+
+<img src="https://img.shields.io/badge/Focus-Generative_AI-7C3AED?style=flat-square" alt="Focus"/>
+<img src="https://img.shields.io/badge/Interest-Agentic_AI-A78BFA?style=flat-square" alt="Interest"/>
+<img src="https://komarev.com/ghpvc/?username=Yashika1205&label=Profile%20Views&color=7C3AED&style=flat-square" alt="Profile Views"/>
+
+<br/><br/>
+
+<a href="https://github.com/Yashika1205">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="YOUR_RESUME_URL">
+  <img src="https://img.shields.io/badge/Resume-7C3AED?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/>
+</a>
 
 </div>
 
 ---
 
-```text
-$ whoami
-Yashika Singh — Computer Science Undergraduate, NSUT Delhi
+## ◢ ABOUT ME
 
-$ focus
-Machine Learning · NLP · Generative AI · Agentic AI
+```python
+class Yashika:
+    def __init__(self):
+        self.education = "B.Tech CSE @ NSUT Delhi"
+        self.interests = [
+            "Machine Learning",
+            "Natural Language Processing",
+            "Generative AI",
+            "Agentic AI"
+        ]
+        self.current_focus = "Building intelligent AI applications"
 
-$ currently_building
-AI-powered applications using LLMs, RAG and modern ML frameworks
-
-$ philosophy
-Learn deeply. Build practically. Keep improving.
+    def philosophy(self):
+        return "Learn deeply. Build practically. Keep improving."
 ```
+
+I'm a Computer Science undergraduate interested in developing intelligent applications that combine **machine learning, language models and practical software engineering**.
+
+I enjoy exploring how AI models can move beyond notebooks and become useful, interactive applications.
 
 ---
 
 ## ◢ CURRENT MISSION
 
-| Status | Focus |
-| :--- | :--- |
-| `● BUILDING` | AI applications that combine machine learning with intuitive user experiences |
-| `● EXPLORING` | Agentic AI, LLM orchestration, retrieval pipelines and evaluation |
-| `◐ LEARNING` | Scalable AI systems, model deployment and software engineering |
-| `● INTERESTED IN` | AI/ML Engineering · GenAI Development · Software Engineering |
+```text
+[ BUILDING  ] AI-powered applications using ML and LLMs
+[ EXPLORING ] Agentic AI, RAG pipelines and LLM orchestration
+[ LEARNING  ] Scalable AI systems and model deployment
+[ FOCUS     ] AI/ML Engineering · GenAI · Software Engineering
+```
+
+---
+
+## ◢ TECH ARSENAL
+
+<div align="center">
+
+### Languages & Development
+
+<img src="https://skillicons.dev/icons?i=python,cpp,c,react,flask,git,github&theme=dark&perline=7" alt="Languages and Development Tools"/>
+
+<br/>
+
+### Machine Learning & Cloud
+
+<img src="https://skillicons.dev/icons?i=pytorch,sklearn,tensorflow,gcp&theme=dark&perline=4" alt="Machine Learning and Cloud Tools"/>
+
+<br/>
+
+### Generative AI & NLP
+
+<img src="https://img.shields.io/badge/Hugging_Face-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" alt="Hugging Face"/>
+<img src="https://img.shields.io/badge/Transformers-7C3AED?style=for-the-badge" alt="Transformers"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge" alt="LangChain"/>
+<img src="https://img.shields.io/badge/LangGraph-6D28D9?style=for-the-badge" alt="LangGraph"/>
+
+<br/>
+
+<img src="https://img.shields.io/badge/RAG-7C3AED?style=for-the-badge" alt="RAG"/>
+<img src="https://img.shields.io/badge/FAISS-4F46E5?style=for-the-badge" alt="FAISS"/>
+<img src="https://img.shields.io/badge/LLMs-9333EA?style=for-the-badge" alt="LLMs"/>
+<img src="https://img.shields.io/badge/Tool_Calling-581C87?style=for-the-badge" alt="Tool Calling"/>
+
+<br/>
+
+### Data & Other Tools
+
+<img src="https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL"/>
+<img src="https://img.shields.io/badge/Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit"/>
+<img src="https://img.shields.io/badge/Vertex_AI-4285F4?style=for-the-badge&logo=googlecloud&logoColor=white" alt="Vertex AI"/>
+<img src="https://img.shields.io/badge/BigQuery-669DF6?style=for-the-badge&logo=googlecloud&logoColor=white" alt="BigQuery"/>
+
+</div>
 
 ---
 
 ## ◢ FEATURED BUILDS
 
-A selection of projects exploring applied machine learning, language models and intelligent applications.
+<div align="center">
 
-### 01 · MoodMatch — AI Moodboard Generator `● LIVE`
+*Turning AI concepts into practical applications.*
 
-An AI-powered design assistant that transforms natural-language prompts into emotion-driven visual moodboards.
+</div>
 
-**The idea**
+### 01 · MoodMatch — AI Moodboard Generator
 
-Design inspiration is often subjective. MoodMatch explores how NLP and emotion classification can translate a user's intent into visual design suggestions.
+<img src="https://img.shields.io/badge/STATUS-LIVE-7C3AED?style=flat-square" alt="Live Project"/>
+
+**Emotion-driven visual design powered by NLP and Transformers.**
+
+MoodMatch transforms natural-language prompts into personalized visual moodboards by detecting emotions and mapping them to relevant colors, design styles and visual assets.
+
+**Architecture**
+
+```text
+User Prompt
+     |
+     v
+Emotion Classification
+     |
+     v
+Emotion-to-Style Mapping
+     |
+     v
+Visual Asset Selection
+     |
+     v
+Generated Moodboard
+```
 
 **Engineering highlights**
 
-- Uses transformer-based NLP for emotion classification.
-- Maps detected emotions to visual styles and design elements.
-- Combines emotion-aware color selection with visual asset retrieval.
-- Connects an ML-powered Python backend with an interactive frontend.
+- Transformer-based emotion classification.
+- Emotion-aware color and design recommendations.
+- Automated visual asset selection.
+- Python backend integrated with an interactive frontend.
+
+**Tech Stack**
 
 `Python` `PyTorch` `Transformers` `Hugging Face` `Flask` `React`
 
-[Live Application](https://moodmatch-rho.vercel.app/) · [Source Code](https://github.com/chahatsaini13/Moodmatch)
+<a href="https://moodmatch-rho.vercel.app/">
+  <img src="https://img.shields.io/badge/Live_Demo-7C3AED?style=for-the-badge&logo=vercel&logoColor=white" alt="Live Demo"/>
+</a>
+<a href="https://github.com/chahatsaini13/Moodmatch">
+  <img src="https://img.shields.io/badge/Source_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="Source Code"/>
+</a>
 
 ---
 
 ### 02 · AskTube AI — YouTube Chatbot
 
-A conversational AI assistant that lets users ask questions about YouTube video content using natural language.
+**Conversational AI powered by Retrieval-Augmented Generation.**
 
-**The idea**
+AskTube AI enables users to ask natural-language questions about YouTube video content and receive context-aware answers.
 
-Instead of manually searching through long videos, users can retrieve relevant information through a conversational interface.
+**Architecture**
+
+```text
+YouTube Video
+      |
+      v
+Transcript Extraction
+      |
+      v
+Text Chunking + Embeddings
+      |
+      v
+FAISS Vector Store
+      |
+      v
+Relevant Context Retrieval
+      |
+      v
+LLM-Generated Answer
+```
 
 **Engineering highlights**
 
-- Implements Retrieval-Augmented Generation (RAG).
-- Uses sentence embeddings for semantic understanding.
-- Retrieves relevant context using FAISS vector search.
-- Integrates LLM-generated responses through Groq.
-- Provides an interactive Streamlit interface.
+- Retrieval-Augmented Generation pipeline.
+- Sentence embeddings for semantic retrieval.
+- FAISS-based vector similarity search.
+- Groq-powered LLM response generation.
+- Interactive Streamlit application.
+
+**Tech Stack**
 
 `Python` `LangChain` `FAISS` `Groq` `Streamlit` `RAG`
 
@@ -87,56 +206,42 @@ Instead of manually searching through long videos, users can retrieve relevant i
 
 ### 03 · AI Chatbot Testing Framework
 
-An evaluation framework designed to assess chatbot response quality, reliability and conversational behavior.
+**Evaluating the quality and reliability of conversational AI.**
 
-**The idea**
+A framework focused on systematic testing of AI chatbot responses, conversational consistency and output safety.
 
-Building a chatbot is only part of the challenge. Evaluating whether its responses are useful, consistent and safe is equally important.
+**Evaluation dimensions**
 
-**Engineering highlights**
+| Metric | Purpose |
+| :--- | :--- |
+| Response Correctness | Measures answer relevance and correctness |
+| Semantic Similarity | Evaluates similarity in meaning |
+| Memory Consistency | Checks consistency across conversation turns |
+| Toxicity Evaluation | Identifies potentially harmful responses |
 
-- Evaluates response correctness and semantic similarity.
-- Examines conversational memory consistency.
-- Includes toxicity and response-quality assessment.
-- Explores systematic testing of AI-powered conversational systems.
+**Tech Stack**
 
 `Python` `NLP` `Semantic Similarity` `LLM Evaluation`
 
 ---
 
-## ◢ TECHNICAL STACK
+## ◢ ENGINEERING PHILOSOPHY
 
-Technologies I use and explore while building AI-powered applications.
+**01 / Understand the problem**
 
-| Area | Technologies |
-| :--- | :--- |
-| **Languages** | `Python` `C++` `C` `SQL` |
-| **Machine Learning** | `PyTorch` `Scikit-learn` `Transformers` |
-| **NLP & GenAI** | `Hugging Face` `LLMs` `RAG` `LangChain` |
-| **AI Orchestration** | `LangGraph` `Tool Calling` |
-| **Vector Retrieval** | `FAISS` `Sentence Embeddings` |
-| **Development** | `Git` `GitHub` `React` `Streamlit` `Flask` |
-| **Cloud & Data** | `Google Cloud` `Vertex AI` `BigQuery` |
+Choose technologies based on what the application needs, not just what's trending.
 
----
+**02 / Build beyond the notebook**
 
-## ◢ HOW I APPROACH AI ENGINEERING
+Connect AI models with APIs, user interfaces and real applications.
 
-**01 — Start with the problem**
+**03 / Evaluate the output**
 
-Understand the user problem before choosing a model, framework or architecture.
+Explore reliability, relevance and consistency when building AI-powered systems.
 
-**02 — Build beyond the notebook**
+**04 / Learn through building**
 
-Connect ML models to interfaces, APIs and applications that people can actually use.
-
-**03 — Treat evaluation as essential**
-
-Explore how model outputs can be measured for relevance, consistency and reliability.
-
-**04 — Keep learning through implementation**
-
-Strengthen understanding of machine learning, LLMs and software engineering by building practical projects.
+Use practical projects to strengthen machine learning and software engineering fundamentals.
 
 ---
 
@@ -144,9 +249,13 @@ Strengthen understanding of machine learning, LLMs and software engineering by b
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Yashika1205&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=FFFFFF&icon_color=A78BFA" height="165" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Yashika1205&show_icons=true&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=FFFFFF&icon_color=A78BFA" height="170" alt="GitHub Statistics"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashika1205&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=FFFFFF" height="165" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashika1205&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0D1117&title_color=C084FC&text_color=FFFFFF" height="170" alt="Most Used Languages"/>
+
+<br/><br/>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Yashika1205&theme=midnight-purple&hide_border=true&background=0D1117" alt="GitHub Streak"/>
 
 </div>
 
@@ -154,18 +263,27 @@ Strengthen understanding of machine learning, LLMs and software engineering by b
 
 ## ◢ CONNECT
 
-I'm interested in building meaningful AI-powered products and collaborating on projects involving machine learning, generative AI and software engineering.
-
-| Platform | Link |
-| :--- | :--- |
-| GitHub | [github.com/Yashika1205](https://github.com/Yashika1205) |
-| LinkedIn | [Connect with me](YOUR_LINKEDIN_URL) |
-| Résumé | [View Résumé](YOUR_RESUME_URL) |
-
----
-
 <div align="center">
+
+### Let's build something intelligent.
+
+I'm interested in AI/ML engineering, generative AI development and software engineering opportunities.
+
+<br/>
+
+<a href="https://github.com/Yashika1205">
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+</a>
+<a href="https://www.linkedin.com/in/yashika-singh-07b257285/">
+  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</a>
+<a href="https://drive.google.com/file/d/111ZiSjtEOsd3kCl0RR9UElEdG7hoClWF/view?usp=sharing">
+  <img src="https://img.shields.io/badge/Resume-7C3AED?style=for-the-badge&logo=readthedocs&logoColor=white" alt="Resume"/>
+</a>
+
+<br/><br/>
 
 *Learning deeply · Building thoughtfully · Shipping consistently*
 
 </div>
+
