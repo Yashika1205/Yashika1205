@@ -11,8 +11,15 @@ Computer Science Undergraduate @ NSUT, Delhi
 
 <br/>
 
-[![GitHub](https://img.shields.io/badge/GitHub-6D28D9?style=flat-square&logo=github&logoColor=white)](https://github.com/Yashika1205)
-[![Resume](https://img.shields.io/badge/Resume-9333EA?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/111ZiSjtEOsd3kCl0RR9UElEdG7hoClWF/view?usp=sharing)
+<p align="center">
+  <a href="https://github.com/Yashika1205">
+    <img src="https://img.shields.io/badge/GITHUB-241638?style=for-the-badge&logo=github&logoColor=D8B4FE&labelColor=241638&color=241638" alt="GitHub"/>
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://drive.google.com/file/d/111ZiSjtEOsd3kCl0RR9UElEdG7hoClWF/view?usp=sharing">
+    <img src="https://img.shields.io/badge/R%C3%89SUM%C3%89-241638?style=for-the-badge&logo=googledrive&logoColor=D8B4FE&labelColor=241638&color=241638" alt="Resume"/>
+  </a>
+</p>
 
 </div>
 
@@ -177,19 +184,11 @@ Use implementation and testing to identify weaknesses and improve the applicatio
 
 > **A model is only one part of an AI application. The real challenge is turning it into something useful, reliable and accessible.**
 
-```text
-                  AI APPLICATION PIPELINE
+<div align="center">
 
-   ┌──────────┐     ┌──────────┐     ┌──────────┐
-   │ PROBLEM  │ ──► │   DATA   │ ──► │ AI MODEL │
-   └──────────┘     └──────────┘     └────┬─────┘
-                                          │
-                                          ▼
-   ┌──────────┐     ┌──────────┐     ┌──────────┐
-   │  USER    │ ◄── │   API /  │ ◄── │EVALUATION│
-   │INTERFACE │     │ SERVICE  │     │          │
-   └──────────┘     └──────────┘     └──────────┘
-```
+<img src="./assets/build-pipeline.svg" width="100%" alt="Purple AI Application Build Pipeline"/>
+
+</div>
 
 **Problem → Data → Intelligence → Evaluation → Application**
 
@@ -220,9 +219,8 @@ Interested in collaborating on AI-powered applications, machine learning project
 | PLATFORM | LINK |
 | :--- | :--- |
 | **GitHub** | [github.com/Yashika1205](https://github.com/Yashika1205) |
-| **LinkedIn** | Add your LinkedIn profile URL here |
-| **Résumé** | [View Résumé](https://drive.google.com/file/d/111ZiSjtEOsd3kCl0RR9UElEdG7hoClWF/view?usp=sharing) |
-| **MoodMatch** | [Live Application](https://moodmatch-rho.vercel.app/) |
+| **LinkedIn** | [Connect with me](https://www.linkedin.com/in/yashika-singh-07b257285/) |
+| **Resume** | [View Resume](https://drive.google.com/file/d/111ZiSjtEOsd3kCl0RR9UElEdG7hoClWF/view?usp=sharing) |
 
 <br/>
 
