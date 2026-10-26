@@ -1,272 +1,239 @@
 
 <div align="center">
 
-<img src="./banner.svg" width="100%" alt="Yashika Singh | AI & ML Engineer"/>
+<img src="./banner.svg" width="100%" alt="Yashika Singh — AI/ML & Generative AI Developer"/>
 
 <br/>
 
-<a href="https://git.io/typing-svg">
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=19&duration=3200&pause=1200&color=A78BFA&center=true&vCenter=true&width=650&height=40&lines=AI+%2F+ML+Engineer;Generative+AI+Developer;Building+Intelligent+Applications;Exploring+LLMs+%7C+RAG+%7C+Agentic+AI" alt="Typing SVG"/>
-</a>
+**AI / ML ENGINEERING · GENERATIVE AI · SOFTWARE DEVELOPMENT**
+
+Computer Science Undergraduate @ NSUT, Delhi
 
 <br/>
 
-**Computer Science @ NSUT, Delhi**
-
-<br/>
-
-<a href="https://github.com/Yashika1205">
-<img src="https://img.shields.io/badge/GitHub-6D28D9?style=flat-square&logo=github&logoColor=white" alt="GitHub"/>
-</a>
-<a href="YOUR_LINKEDIN_URL">
-<img src="https://img.shields.io/badge/LinkedIn-7C3AED?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-</a>
-<a href="https://drive.google.com/file/d/111ZiSjtEOsd3kCl0RR9UElEdG7hoClWF/view?usp=sharing">
-<img src="https://img.shields.io/badge/Resume-9333EA?style=flat-square&logo=googledrive&logoColor=white" alt="Resume"/>
-</a>
+[![GitHub](https://img.shields.io/badge/GitHub-6D28D9?style=flat-square&logo=github&logoColor=white)](https://github.com/Yashika1205)
+[![Resume](https://img.shields.io/badge/Resume-9333EA?style=flat-square&logo=googledrive&logoColor=white)](https://drive.google.com/file/d/111ZiSjtEOsd3kCl0RR9UElEdG7hoClWF/view?usp=sharing)
 
 </div>
 
 ---
-
-### `$ whoami`
 
 ```text
-Yashika Singh
-Computer Science Undergraduate · NSUT Delhi
+$ whoami
+yashika-singh — Computer Science Undergraduate, NSUT Delhi
 
-AI / ML Engineering  |  Generative AI  |  Software Engineering
+$ focus
+building practical AI applications using machine learning,
+natural language processing, LLMs and retrieval-augmented generation
+
+$ stack
+python · c++ · pytorch · transformers · langchain · faiss · react · flask
+
+$ currently_exploring
+agentic AI · LangGraph · RAG architectures · LLM evaluation
+
+$ philosophy
+learn deeply. build thoughtfully. evaluate carefully. ship consistently.
 ```
 
-I build AI-powered applications using **machine learning, NLP, LLMs and retrieval-augmented generation**.
+---
 
-My work focuses on connecting intelligent models with practical applications — from emotion-aware design systems to conversational AI and model evaluation.
+## ◢ CURRENT MISSION
+
+| STATUS | WHAT I'M WORKING ON |
+| :--- | :--- |
+| **● BUILDING** | **MoodMatch** — an emotion-driven AI design assistant that converts natural-language prompts into personalized visual moodboards. |
+| **● EXPLORING** | **AskTube AI** — a retrieval-augmented chatbot for asking questions about YouTube video content. |
+| **◐ IMPROVING** | **AI Chatbot Testing Framework** — evaluating response correctness, semantic similarity, memory consistency and toxicity. |
+| **● OPEN TO** | AI/ML Engineering, Generative AI and Software Engineering opportunities. |
 
 ---
 
-### `01 / CURRENT MISSION`
+## ◢ FEATURED BUILDS
 
-**BUILDING** &nbsp; — &nbsp; End-to-end AI applications with ML and LLMs
+Selected projects exploring applied AI, intelligent retrieval and conversational systems.
 
-**EXPLORING** &nbsp; — &nbsp; Agentic AI, LangGraph and RAG architectures
+### 01 · MoodMatch — AI-Powered Moodboard Generator
 
-**LEARNING** &nbsp; — &nbsp; Model deployment, evaluation and scalable AI systems
+`AI / NLP / EMOTION CLASSIFICATION`
 
-**INTERESTED IN** &nbsp; — &nbsp; AI/ML Engineering · GenAI · Software Engineering
+**[Live Application](https://moodmatch-rho.vercel.app/) · [Source Code](https://github.com/chahatsaini13/Moodmatch)**
 
----
+An AI-powered design assistant that transforms natural-language descriptions into emotion-driven visual moodboards.
 
-### `02 / FEATURED BUILDS`
+**Why it matters** — Visual design is often driven by subjective feelings. MoodMatch bridges the gap between what users express in words and the visual elements that communicate those emotions.
 
-A selection of projects focused on applied machine learning, generative AI and intelligent software.
+**Engineering highlights**
 
-<br/>
+- **Transformer-based emotion classification** — uses a RoBERTa-based NLP model to identify emotion from user prompts.
+- **Emotion-aware design mapping** — connects predicted emotions to suitable colors and visual styles.
+- **Visual asset retrieval** — collects relevant imagery to create personalized moodboards.
+- **End-to-end integration** — connects the machine learning pipeline with a Flask backend and interactive frontend.
 
-#### `01` &nbsp; MoodMatch — AI Moodboard Generator
+**System flow**
 
-**`AI / NLP / COMPUTER VISION`**
+`Natural Language Prompt` → `Emotion Classification` → `Design Mapping` → `Visual Retrieval` → `Moodboard`
 
-An emotion-driven design assistant that transforms natural-language prompts into personalized visual moodboards.
+**Tech stack**
 
-**The Problem**
-
-Visual design inspiration is subjective. Translating a user's mood or emotion into meaningful design choices can be challenging.
-
-**The Approach**
-
-MoodMatch uses transformer-based emotion classification to understand user intent and generate visual design recommendations.
-
-**Engineering Highlights**
-
-- Transformer-based emotion classification using NLP.
-- Emotion-to-color and design-style mapping.
-- Visual asset retrieval for moodboard generation.
-- ML-powered Python backend integrated with an interactive frontend.
-
-**Pipeline**
-
-`User Prompt` → `Emotion Detection` → `Style Mapping` → `Visual Retrieval` → `Moodboard`
-
-**Stack**
-
-![Python](https://img.shields.io/badge/Python-6D28D9?style=flat-square)
-![PyTorch](https://img.shields.io/badge/PyTorch-7C3AED?style=flat-square)
-![Transformers](https://img.shields.io/badge/Transformers-9333EA?style=flat-square)
-![Flask](https://img.shields.io/badge/Flask-6D28D9?style=flat-square)
-![React](https://img.shields.io/badge/React-7C3AED?style=flat-square)
-
-**[Live Application](https://moodmatch-rho.vercel.app/)** &nbsp;·&nbsp; **[Source Code](https://github.com/chahatsaini13/Moodmatch)**
-
-<br/>
+`Python` `PyTorch` `Transformers` `Hugging Face` `Flask` `React`
 
 ---
 
-#### `02` &nbsp; AskTube AI — YouTube RAG Chatbot
+### 02 · AskTube AI — YouTube RAG Chatbot
 
-**`GENERATIVE AI / RAG / SEMANTIC SEARCH`**
+`GENERATIVE AI / RAG / SEMANTIC SEARCH`
 
-A conversational AI assistant that enables users to ask questions about YouTube videos and receive context-aware answers.
+A conversational AI application that lets users ask natural-language questions about YouTube videos and receive answers grounded in their transcript content.
 
-**The Problem**
+**Why it matters** — Finding specific information inside long videos can be slow. AskTube AI makes video knowledge accessible through conversational search rather than manual navigation.
 
-Finding specific information in long YouTube videos can be time-consuming.
+**Engineering highlights**
 
-**The Approach**
+- **Transcript processing** — extracts video transcripts and divides them into manageable text chunks.
+- **Semantic embeddings** — converts transcript segments into vector representations.
+- **FAISS retrieval** — identifies relevant transcript chunks using similarity search.
+- **LLM-powered responses** — uses retrieved context and Groq-hosted language models to generate answers.
+- **Interactive application** — provides a Streamlit-based conversational interface.
 
-AskTube AI combines transcript processing, semantic retrieval and large language models to make video content searchable through conversation.
+**System flow**
 
-**Engineering Highlights**
+`YouTube URL` → `Transcript Extraction` → `Chunking` → `Embeddings` → `FAISS` → `LLM Response`
 
-- Retrieval-Augmented Generation pipeline.
-- Semantic retrieval using sentence embeddings.
-- FAISS vector database for similarity search.
-- Groq-powered LLM response generation.
-- Interactive Streamlit interface.
+**Tech stack**
 
-**Pipeline**
-
-`YouTube Video` → `Transcript` → `Embeddings` → `FAISS Retrieval` → `LLM Answer`
-
-**Stack**
-
-![Python](https://img.shields.io/badge/Python-6D28D9?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-7C3AED?style=flat-square)
-![FAISS](https://img.shields.io/badge/FAISS-9333EA?style=flat-square)
-![Groq](https://img.shields.io/badge/Groq-6D28D9?style=flat-square)
-![Streamlit](https://img.shields.io/badge/Streamlit-7C3AED?style=flat-square)
-
-<br/>
+`Python` `LangChain` `FAISS` `Sentence Embeddings` `Groq` `Streamlit`
 
 ---
 
-#### `03` &nbsp; AI Chatbot Testing Framework
+### 03 · AI Chatbot Testing Framework
 
-**`LLM EVALUATION / NLP / AI RELIABILITY`**
+`LLM EVALUATION / NLP / AI RELIABILITY`
 
-A framework designed to evaluate the quality, consistency and reliability of conversational AI systems.
+An evaluation framework for assessing chatbot response quality across multiple dimensions.
 
-**The Problem**
+**Why it matters** — A chatbot producing fluent responses does not necessarily mean those responses are accurate, consistent or safe. Reliable AI applications need systematic evaluation.
 
-Generating responses is only one part of building reliable chatbots. Evaluating their correctness, consistency and safety is equally important.
+**Evaluation dimensions**
 
-**The Approach**
+- **Response correctness** — assesses whether generated responses address the expected answer.
+- **Semantic similarity** — compares responses based on meaning rather than exact wording.
+- **Memory consistency** — evaluates whether a chatbot maintains relevant information across a conversation.
+- **Toxicity assessment** — checks responses for potentially harmful content.
 
-A structured evaluation process that examines chatbot outputs across multiple quality dimensions.
+**Evaluation flow**
 
-**Engineering Highlights**
+`Test Input` → `Chatbot Response` → `Quality Checks` → `Evaluation Results`
 
-- Response correctness and relevance evaluation.
-- Semantic similarity assessment.
-- Conversational memory consistency testing.
-- Toxicity and response safety analysis.
+**Tech stack**
 
-**Evaluation Dimensions**
-
-`Correctness` · `Semantic Similarity` · `Memory Consistency` · `Toxicity`
-
-**Stack**
-
-![Python](https://img.shields.io/badge/Python-6D28D9?style=flat-square)
-![NLP](https://img.shields.io/badge/NLP-7C3AED?style=flat-square)
-![LLM Evaluation](https://img.shields.io/badge/LLM_Evaluation-9333EA?style=flat-square)
+`Python` `NLP` `Semantic Similarity` `LLM Evaluation`
 
 ---
 
-### `03 / ENGINEERING STACK`
+## ◢ STACK
 
-Technologies I use and explore while building AI-powered applications.
+Technologies I use and explore while developing machine learning and software applications.
 
-**Languages**
-
-![Python](https://img.shields.io/badge/Python-6D28D9?style=flat-square&logo=python&logoColor=white)
-![C++](https://img.shields.io/badge/C++-7C3AED?style=flat-square&logo=cplusplus&logoColor=white)
-![C](https://img.shields.io/badge/C-9333EA?style=flat-square&logo=c&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-6D28D9?style=flat-square&logo=postgresql&logoColor=white)
-
-**Machine Learning & NLP**
-
-![PyTorch](https://img.shields.io/badge/PyTorch-6D28D9?style=flat-square&logo=pytorch&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-7C3AED?style=flat-square&logo=scikitlearn&logoColor=white)
-![Hugging Face](https://img.shields.io/badge/Hugging_Face-9333EA?style=flat-square&logo=huggingface&logoColor=white)
-![Transformers](https://img.shields.io/badge/Transformers-6D28D9?style=flat-square)
-
-**Generative AI**
-
-![LLMs](https://img.shields.io/badge/LLMs-6D28D9?style=flat-square)
-![RAG](https://img.shields.io/badge/RAG-7C3AED?style=flat-square)
-![LangChain](https://img.shields.io/badge/LangChain-9333EA?style=flat-square)
-![LangGraph](https://img.shields.io/badge/LangGraph-6D28D9?style=flat-square)
-![FAISS](https://img.shields.io/badge/FAISS-7C3AED?style=flat-square)
-![Tool Calling](https://img.shields.io/badge/Tool_Calling-9333EA?style=flat-square)
-
-**Development & Cloud**
-
-![React](https://img.shields.io/badge/React-6D28D9?style=flat-square&logo=react&logoColor=white)
-![Flask](https://img.shields.io/badge/Flask-7C3AED?style=flat-square&logo=flask&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-9333EA?style=flat-square&logo=streamlit&logoColor=white)
-![Git](https://img.shields.io/badge/Git-6D28D9?style=flat-square&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-7C3AED?style=flat-square&logo=github&logoColor=white)
-![Google Cloud](https://img.shields.io/badge/Google_Cloud-9333EA?style=flat-square&logo=googlecloud&logoColor=white)
-![Vertex AI](https://img.shields.io/badge/Vertex_AI-6D28D9?style=flat-square)
-![BigQuery](https://img.shields.io/badge/BigQuery-7C3AED?style=flat-square)
+| CATEGORY | TECHNOLOGIES |
+| :--- | :--- |
+| **Languages** | `Python` `C++` `C` `SQL` |
+| **AI / ML** | `PyTorch` `Scikit-learn` `Hugging Face` `Transformers` |
+| **Generative AI** | `LLMs` `RAG` `LangChain` `LangGraph` `FAISS` `Tool Calling` |
+| **Frontend** | `React` |
+| **Backend** | `Flask` `Streamlit` |
+| **Cloud & Data** | `Vertex AI` `BigQuery` |
+| **Developer Tools** | `Git` `GitHub` |
 
 ---
 
-### `04 / ENGINEERING APPROACH`
+## ◢ HOW I ENGINEER
 
-**01 — Understand the problem**
+My approach is to understand the problem, build a working system and improve it through evaluation.
 
-Start with the real-world problem before selecting models or frameworks.
+**01 — Start with the problem.**
 
-**02 — Build end-to-end**
+Understand what users need before choosing a model, framework or architecture.
 
-Move beyond experimentation by integrating models with APIs, interfaces and applications.
+**02 — Connect models to applications.**
 
-**03 — Evaluate intelligently**
+Go beyond notebooks by integrating machine learning with backend services and user-facing interfaces.
 
-Consider correctness, relevance, consistency and reliability when working with AI systems.
+**03 — Design around the data flow.**
 
-**04 — Iterate and improve**
+Consider how inputs are processed, how information is retrieved and how outputs reach users.
 
-Learn through implementation, experimentation and continuous refinement.
+**04 — Evaluate AI behavior.**
+
+Pay attention to relevance, correctness, consistency and reliability rather than treating generated output as automatically correct.
+
+**05 — Iterate through experimentation.**
+
+Use implementation and testing to identify weaknesses and improve the application.
 
 ---
 
-### `05 / GITHUB TELEMETRY`
+## ◢ BUILD PHILOSOPHY
+
+> **A model is only one part of an AI application. The real challenge is turning it into something useful, reliable and accessible.**
+
+```text
+                  AI APPLICATION PIPELINE
+
+   ┌──────────┐     ┌──────────┐     ┌──────────┐
+   │ PROBLEM  │ ──► │   DATA   │ ──► │ AI MODEL │
+   └──────────┘     └──────────┘     └────┬─────┘
+                                          │
+                                          ▼
+   ┌──────────┐     ┌──────────┐     ┌──────────┐
+   │  USER    │ ◄── │   API /  │ ◄── │EVALUATION│
+   │INTERFACE │     │ SERVICE  │     │          │
+   └──────────┘     └──────────┘     └──────────┘
+```
+
+**Problem → Data → Intelligence → Evaluation → Application**
+
+---
+
+## ◢ TELEMETRY
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Yashika1205&show_icons=true&hide_border=true&bg_color=201334&title_color=C084FC&text_color=E9D5FF&icon_color=A78BFA" height="165" alt="GitHub Stats"/>
+<img src="https://github-readme-stats.vercel.app/api?username=Yashika1205&show_icons=true&hide_border=true&bg_color=160F27&title_color=C084FC&text_color=E9D5FF&icon_color=A78BFA" height="165" alt="GitHub Statistics"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashika1205&layout=compact&hide_border=true&bg_color=201334&title_color=C084FC&text_color=E9D5FF" height="165" alt="Top Languages"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashika1205&layout=compact&hide_border=true&bg_color=160F27&title_color=C084FC&text_color=E9D5FF" height="165" alt="Most Used Languages"/>
+
+<br/>
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashika1205&bg_color=160F27&color=C084FC&line=9333EA&point=E9D5FF&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
 
 </div>
 
----
-
-### `06 / CONNECT`
-
-I'm interested in opportunities and collaborations involving **AI/ML Engineering, Generative AI and Software Engineering**.
-
-**GitHub** &nbsp; — &nbsp; [github.com/Yashika1205](https://github.com/Yashika1205)
-
-**LinkedIn** &nbsp; — &nbsp; [Connect with me](YOUR_LINKEDIN_URL)
-
-**Resume** &nbsp; — &nbsp; [View Resume](https://drive.google.com/file/d/111ZiSjtEOsd3kCl0RR9UElEdG7hoClWF/view?usp=sharing)
+<sub>GitHub activity graphics are provided by third-party services and may occasionally be unavailable.</sub>
 
 ---
+
+## ◢ CONTACT
+
+Interested in collaborating on AI-powered applications, machine learning projects and software engineering.
+
+| PLATFORM | LINK |
+| :--- | :--- |
+| **GitHub** | [github.com/Yashika1205](https://github.com/Yashika1205) |
+| **LinkedIn** | Add your LinkedIn profile URL here |
+| **Résumé** | [View Résumé](https://drive.google.com/file/d/111ZiSjtEOsd3kCl0RR9UElEdG7hoClWF/view?usp=sharing) |
+| **MoodMatch** | [Live Application](https://moodmatch-rho.vercel.app/) |
+
+<br/>
 
 <div align="center">
 
-<img src="https://komarev.com/ghpvc/?username=Yashika1205&label=PROFILE%20VIEWS&color=7C3AED&style=flat-square" alt="Profile Views"/>
+<img src="https://komarev.com/ghpvc/?username=Yashika1205&label=PROFILE%20VIEWS&color=9333EA&style=flat-square" alt="Profile Views"/>
 
 <br/><br/>
 
-**Learning deeply · Building thoughtfully · Shipping consistently**
+**LEARN · BUILD · EVALUATE · IMPROVE**
 
-<sub>Made with 💜 by Yashika Singh</sub>
+<sub>Yashika Singh · AI / ML · Generative AI · Software Engineering</sub>
 
 </div>
-
-
-
