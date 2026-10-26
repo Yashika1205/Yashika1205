@@ -1,0 +1,60 @@
+
+<svg xmlns="http://www.w3.org/2000/svg" width="1100" height="290" viewBox="0 0 1100 290" role="img" aria-label="Purple AI application build pipeline">
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#180D2B"/>
+      <stop offset="100%" stop-color="#100A20"/>
+    </linearGradient>
+    <pattern id="grid" width="40" height="40" patternUnits="userSpaceOnUse">
+      <path d="M40 0H0V40" fill="none" stroke="#A78BFA" stroke-opacity=".09" stroke-width="1"/>
+    </pattern>
+    <linearGradient id="accent" x1="0" y1="0" x2="1" y2="0">
+      <stop offset="0%" stop-color="#7C3AED"/>
+      <stop offset="100%" stop-color="#D8B4FE"/>
+    </linearGradient>
+  </defs>
+
+  <rect width="1100" height="290" rx="18" fill="url(#bg)"/>
+  <rect width="1100" height="290" rx="18" fill="url(#grid)"/>
+  <rect x="1" y="1" width="1098" height="288" rx="17" fill="none" stroke="#65438E" stroke-opacity=".65"/>
+
+  <text x="40" y="52" font-family="monospace" font-size="19" font-weight="bold" fill="#D8B4FE">// BUILD PIPELINE</text>
+  <path d="M40 67H248" stroke="url(#accent)" stroke-width="3" stroke-linecap="round"/>
+  <text x="1060" y="51" text-anchor="end" font-family="monospace" font-size="13" fill="#B9A1D4">IDEA → INTELLIGENT APPLICATION</text>
+
+  <path d="M55 157H1045" stroke="#7D659D" stroke-width="2" stroke-opacity=".7"/>
+
+  <g font-family="monospace" font-size="17" font-weight="bold" text-anchor="middle">
+    <rect x="45" y="125" width="170" height="64" rx="12" fill="#25153D" stroke="#A78BFA" stroke-width="2"/>
+    <text x="130" y="163" fill="#F3E8FF">PROBLEM</text>
+
+    <rect x="255" y="125" width="170" height="64" rx="12" fill="#25153D" stroke="#C084FC" stroke-width="2"/>
+    <text x="340" y="163" fill="#F3E8FF">DATA</text>
+
+    <rect x="465" y="125" width="170" height="64" rx="12" fill="#2F1850" stroke="#9333EA" stroke-width="2"/>
+    <text x="550" y="163" fill="#F3E8FF">AI MODEL</text>
+
+    <rect x="675" y="125" width="170" height="64" rx="12" fill="#25153D" stroke="#C084FC" stroke-width="2"/>
+    <text x="760" y="163" fill="#F3E8FF">EVALUATE</text>
+
+    <rect x="885" y="125" width="170" height="64" rx="12" fill="#381A5B" stroke="#D8B4FE" stroke-width="2"/>
+    <text x="970" y="163" fill="#F3E8FF">SHIP</text>
+  </g>
+
+  <g fill="#D8B4FE">
+    <path d="M244 157l-11-7v14z"/>
+    <path d="M454 157l-11-7v14z"/>
+    <path d="M664 157l-11-7v14z"/>
+    <path d="M874 157l-11-7v14z"/>
+  </g>
+
+  <g font-family="monospace" font-size="12" fill="#B9A1D4" text-anchor="middle">
+    <text x="130" y="218">Understand</text>
+    <text x="340" y="218">Prepare</text>
+    <text x="550" y="218">Build</text>
+    <text x="760" y="218">Validate</text>
+    <text x="970" y="218">Deliver</text>
+  </g>
+
+  <text x="550" y="262" text-anchor="middle" font-family="monospace" font-size="13" fill="#C4B5FD">LEARN  ·  BUILD  ·  EVALUATE  ·  IMPROVE</text>
+</svg>
