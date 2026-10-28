@@ -16,7 +16,7 @@ Computer Science Undergraduate @ NSUT, Delhi
     <img src="https://img.shields.io/badge/GITHUB-241638?style=for-the-badge&logo=github&logoColor=D8B4FE&labelColor=241638&color=241638" alt="GitHub"/>
   </a>
   &nbsp;&nbsp;
-  <a href="https://drive.google.com/file/d/111ZiSjtEOsd3kCl0RR9UElEdG7hoClWF/view?usp=sharing">
+  <a href="https://drive.google.com/file/d/15r1fEmOCgFfriMTumAmLxar4QmtJ8u8M/view?usp=sharing">
     <img src="https://img.shields.io/badge/R%C3%89SUM%C3%89-241638?style=for-the-badge&logo=googledrive&logoColor=D8B4FE&labelColor=241638&color=241638" alt="Resume"/>
   </a>
 </p>
