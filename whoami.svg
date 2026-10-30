@@ -1,0 +1,24 @@
+```xml
+<svg xmlns="http://www.w3.org/2000/svg" width="1000" height="360" viewBox="0 0 1000 360">
+  <rect width="1000" height="360" rx="12" fill="#160F27"/>
+  <rect x="1" y="1" width="998" height="358" rx="12" fill="none" stroke="#6B3FA0" stroke-width="1"/>
+
+  <g fill="#C084FC" font-family="monospace" font-size="15">
+    <text x="32" y="35">$ whoami</text>
+    <text x="32" y="57" fill="#E9D5FF">yashika-singh — Computer Science Undergraduate, NSUT Delhi</text>
+
+    <text x="32" y="98">$ focus</text>
+    <text x="32" y="120" fill="#E9D5FF">building practical AI applications using machine learning,</text>
+    <text x="32" y="142" fill="#E9D5FF">natural language processing, LLMs and retrieval-augmented generation</text>
+
+    <text x="32" y="183">$ stack</text>
+    <text x="32" y="205" fill="#E9D5FF">python · c++ · pytorch · transformers · langchain · faiss · react · flask</text>
+
+    <text x="32" y="246">$ currently_exploring</text>
+    <text x="32" y="268" fill="#E9D5FF">agentic AI · LangGraph · RAG architectures · LLM evaluation</text>
+
+    <text x="32" y="309">$ philosophy</text>
+    <text x="32" y="331" fill="#E9D5FF">learn deeply. build thoughtfully. evaluate carefully. ship consistently.</text>
+  </g>
+</svg>
+```
