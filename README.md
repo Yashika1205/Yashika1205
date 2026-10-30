@@ -179,11 +179,9 @@ Use implementation and testing to identify weaknesses and improve the applicatio
 
 <br/>
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Yashika1205&bg_color=160F27&color=C084FC&line=9333EA&point=E9D5FF&area=true&hide_border=true" width="100%" alt="GitHub Activity Graph"/>
 
 </div>
 
-<sub>GitHub activity graphics are provided by third-party services and may occasionally be unavailable.</sub>
 
 ---
 
