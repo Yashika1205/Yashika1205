@@ -1,4 +1,4 @@
-
+```markdown
 <div align="center">
 
 <img src="./banner.svg" width="100%" alt="Yashika Singh — AI/ML & Generative AI Developer"/>
@@ -11,47 +11,19 @@ Computer Science Undergraduate @ NSUT, Delhi
 
 <br/>
 
-<p align="center">
-  <a href="https://github.com/Yashika1205">
-    <img src="https://img.shields.io/badge/GITHUB-241638?style=for-the-badge&logo=github&logoColor=D8B4FE&labelColor=241638&color=241638" alt="GitHub"/>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://drive.google.com/file/d/15r1fEmOCgFfriMTumAmLxar4QmtJ8u8M/view?usp=sharing">
-    <img src="https://img.shields.io/badge/R%C3%89SUM%C3%89-241638?style=for-the-badge&logo=googledrive&logoColor=D8B4FE&labelColor=241638&color=241638" alt="Resume"/>
-  </a>
-</p>
+<a href="https://github.com/Yashika1205">
+<img src="https://img.shields.io/badge/GITHUB-241638?style=for-the-badge&logo=github&logoColor=D8B4FE" alt="GitHub"/>
+</a>
+&nbsp;&nbsp;
+<a href="https://drive.google.com/file/d/15r1fEmOCgFfriMTumAmLxar4QmtJ8u8M/view?usp=sharing">
+<img src="https://img.shields.io/badge/RESUME-241638?style=for-the-badge&logo=googledrive&logoColor=D8B4FE" alt="Resume"/>
+</a>
 
 </div>
 
 ---
 
-```text
-$ whoami
-yashika-singh — Computer Science Undergraduate, NSUT Delhi
-
-$ focus
-building practical AI applications using machine learning,
-natural language processing, LLMs and retrieval-augmented generation
-
-$ stack
-python · c++ · pytorch · transformers · langchain · faiss · react · flask
-
-$ currently_exploring
-agentic AI · LangGraph · RAG architectures · LLM evaluation
-
-$ philosophy
-learn deeply. build thoughtfully. evaluate carefully. ship consistently.
-```
-
----
-
-## ◢ CURRENT MISSION
-
-| STATUS | WHAT I'M WORKING ON |
-| :--- | :--- |
-| **● BUILDING** | **MoodMatch** — an emotion-driven AI design assistant that converts natural-language prompts into personalized visual moodboards. |
-| **● EXPLORING** | **AskTube AI** — a retrieval-augmented chatbot for asking questions about YouTube video content. |
-| **● OPEN TO** | AI/ML Engineering, Generative AI and Software Engineering opportunities. |
+<img src="./assets/whoami.svg" width="100%" alt="About Yashika"/>
 
 ---
 
@@ -71,10 +43,10 @@ An AI-powered design assistant that transforms natural-language descriptions int
 
 **Engineering highlights**
 
-- **Transformer-based emotion classification** — uses a RoBERTa-based NLP model to identify emotion from user prompts.
-- **Emotion-aware design mapping** — connects predicted emotions to suitable colors and visual styles.
-- **Visual asset retrieval** — collects relevant imagery to create personalized moodboards.
-- **End-to-end integration** — connects the machine learning pipeline with a Flask backend and interactive frontend.
+- **Transformer-based emotion classification** — Uses a RoBERTa-based NLP model to identify emotion from user prompts.
+- **Emotion-aware design mapping** — Connects predicted emotions to suitable colors and visual styles.
+- **Visual asset retrieval** — Collects relevant imagery to create personalized moodboards.
+- **End-to-end integration** — Connects the machine learning pipeline with a Flask backend and interactive frontend.
 
 **System flow**
 
@@ -86,7 +58,36 @@ An AI-powered design assistant that transforms natural-language descriptions int
 
 ---
 
-### 02 · AskTube AI — YouTube RAG Chatbot
+### 02 · IntelliNotes — Agentic RAG Knowledge Assistant
+
+`GENAI / AGENTIC AI / RAG / LLMs`
+
+**[Live Application](https://intellinotes-frontend.vercel.app/) · [Source Code](https://github.com/DushyantBhardwaj2/IntelliNotes)**
+
+An AI-powered knowledge assistant that enables users to upload PDF documents, retrieve relevant information, and interact with their knowledge base through context-aware conversations. Built using an Agentic RAG architecture, IntelliNotes combines intelligent query routing, document retrieval, web search, and response verification to deliver reliable, source-grounded answers.
+
+**Why it matters** — Traditional RAG systems can generate inaccurate or unsupported responses when retrieved context is insufficient. IntelliNotes addresses this challenge through context sufficiency grading, document-level retrieval isolation, and a Self-RAG verification loop that checks generated responses against retrieved sources.
+
+**Engineering highlights**
+
+- **Agentic RAG orchestration** — Implements a LangGraph-based workflow with multi-intent query routing for document queries, real-time web searches, and direct conversational responses.
+- **Self-RAG hallucination guard** — Verifies generated responses against source excerpts and automatically corrects unsupported claims before returning the final answer.
+- **Context-aware retrieval** — Uses ChromaDB vector search, conversational query rewriting, and document-scoped retrieval to maintain relevant context across multi-turn conversations.
+- **Page-level PDF citations** — Preserves original PDF page numbers during document ingestion and provides precise source references in generated answers.
+- **Intelligent web fallback** — Integrates Tavily search when uploaded documents lack sufficient information, extending the assistant's knowledge beyond the local document collection.
+- **Production-ready backend** — Implements FastAPI REST endpoints, API-key authentication, rate limiting, upload validation, and graceful error handling.
+
+**System flow**
+
+`User Query` → `Intent Routing` → `Query Rewriting` → `Vector Retrieval` → `Context Grading` → `Web Fallback (if needed)` → `Response Generation` → `Self-RAG Verification` → `Grounded Answer`
+
+**Tech stack**
+
+`Python` `LangChain` `LangGraph` `FastAPI` `Google Gemini` `ChromaDB` `Tavily` `Streamlit` `Docker`
+
+---
+
+### 03 · AskTube AI — YouTube RAG Chatbot
 
 `GENERATIVE AI / RAG / SEMANTIC SEARCH`
 
@@ -96,11 +97,11 @@ A conversational AI application that lets users ask natural-language questions a
 
 **Engineering highlights**
 
-- **Transcript processing** — extracts video transcripts and divides them into manageable text chunks.
-- **Semantic embeddings** — converts transcript segments into vector representations.
-- **FAISS retrieval** — identifies relevant transcript chunks using similarity search.
-- **LLM-powered responses** — uses retrieved context and Groq-hosted language models to generate answers.
-- **Interactive application** — provides a Streamlit-based conversational interface.
+- **Transcript processing** — Extracts video transcripts and divides them into manageable text chunks.
+- **Semantic embeddings** — Converts transcript segments into vector representations.
+- **FAISS retrieval** — Identifies relevant transcript chunks using similarity search.
+- **LLM-powered responses** — Uses retrieved context and Groq-hosted language models to generate answers.
+- **Interactive application** — Provides a Streamlit-based conversational interface.
 
 **System flow**
 
@@ -109,31 +110,6 @@ A conversational AI application that lets users ask natural-language questions a
 **Tech stack**
 
 `Python` `LangChain` `FAISS` `Sentence Embeddings` `Groq` `Streamlit`
-
----
-
-### 03 · AI Chatbot Testing Framework
-
-`LLM EVALUATION / NLP / AI RELIABILITY`
-
-An evaluation framework for assessing chatbot response quality across multiple dimensions.
-
-**Why it matters** — A chatbot producing fluent responses does not necessarily mean those responses are accurate, consistent or safe. Reliable AI applications need systematic evaluation.
-
-**Evaluation dimensions**
-
-- **Response correctness** — assesses whether generated responses address the expected answer.
-- **Semantic similarity** — compares responses based on meaning rather than exact wording.
-- **Memory consistency** — evaluates whether a chatbot maintains relevant information across a conversation.
-- **Toxicity assessment** — checks responses for potentially harmful content.
-
-**Evaluation flow**
-
-`Test Input` → `Chatbot Response` → `Quality Checks` → `Evaluation Results`
-
-**Tech stack**
-
-`Python` `NLP` `Semantic Similarity` `LLM Evaluation`
 
 ---
 
@@ -187,9 +163,9 @@ Use implementation and testing to identify weaknesses and improve the applicatio
 
 <img src="./assets/build-pipeline.svg" width="100%" alt="Purple AI Application Build Pipeline"/>
 
-</div>
-
 **Problem → Data → Intelligence → Evaluation → Application**
+
+</div>
 
 ---
 
@@ -234,3 +210,4 @@ Interested in collaborating on AI-powered applications, machine learning project
 <sub>Yashika Singh · AI / ML · Generative AI · Software Engineering</sub>
 
 </div>
+```
