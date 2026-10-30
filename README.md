@@ -1,7 +1,7 @@
 
 <div align="center">
 
-<img src="./banner.svg" width="100%" alt="Yashika Singh — AI/ML & Generative AI Developer"/>
+<img src="./banner.svg" width="100%" alt="Yashika  — AI/ML & Generative AI Developer"/>
 
 <br/>
 
