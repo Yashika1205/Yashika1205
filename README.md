@@ -175,8 +175,6 @@ Use implementation and testing to identify weaknesses and improve the applicatio
 
 <img src="https://github-readme-stats.vercel.app/api?username=Yashika1205&show_icons=true&hide_border=true&bg_color=160F27&title_color=C084FC&text_color=E9D5FF&icon_color=A78BFA" height="165" alt="GitHub Statistics"/>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yashika1205&layout=compact&hide_border=true&bg_color=160F27&title_color=C084FC&text_color=E9D5FF" height="165" alt="Most Used Languages"/>
-
 <br/>
 
 
