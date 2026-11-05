@@ -87,31 +87,40 @@ An AI-powered knowledge assistant that enables users to upload PDF documents, re
 
 ---
 
-### 03 · AskTube AI — YouTube RAG Chatbot
+### 03 · Chatbot Usability Testing Framework
 
-`GENERATIVE AI / RAG / SEMANTIC SEARCH`
+`AI / CHATBOT EVALUATION / METRICS / NLP`
 
-A conversational AI application that lets users ask natural-language questions about YouTube videos and receive answers grounded in their transcript content.
+**[Source Code](https://github.com/Yashika1205/chatbot-usuability-framework)**
 
-**Why it matters** — Finding specific information inside long videos can be slow. AskTube AI makes video knowledge accessible through conversational search rather than manual navigation.
+A Python-based framework that evaluates chatbot usability by running scripted conversations, recording responses, and calculating scores across five dimensions: context retention, response time, helpful response ratio, lexical diversity, and error rate. It supports testing Rasa and Ollama-backed chatbots.
+
+**Why it matters** — A chatbot can sound fluent yet forget important details, respond slowly, or fail to answer helpfully. This framework provides a repeatable way to assess these behaviors and summarize them in a Chatbot Usability Score (CUS).
 
 **Engineering highlights**
 
-- **Transcript processing** — Extracts video transcripts and divides them into manageable text chunks.
-- **Semantic embeddings** — Converts transcript segments into vector representations.
-- **FAISS retrieval** — Identifies relevant transcript chunks using similarity search.
-- **LLM-powered responses** — Uses retrieved context and Groq-hosted language models to generate answers.
-- **Interactive application** — Provides a Streamlit-based conversational interface.
+- **Scripted usability evaluations** — Runs five task scripts containing 87 turns, with scenarios designed to assess different aspects of chatbot usability.
+- **Five metric calculations** — Measures context retention, average response time, helpful response ratio, lexical diversity using MATTR-50, and rule-defined error rate.
+- **Conversation logging** — Records chatbot exchanges in JSONL format for metric calculation and review.
+- **LLM-assisted helpfulness checks** — Uses Prometheus 2 to assess selected responses; other checks use configured expected keywords.
+- **Composite scoring** — Normalizes the five metric scores and combines them into an overall CUS, using equal weights by default.
+- **Repeatable model comparison** — Includes three recorded evaluation runs each for Llama 3.1 and Mistral, summarized using mean and standard deviation.
+- **Human-validation workflow** — Documents a comparison with human SUS responses; completed SUS validation results are not included in the recorded outputs.
 
 **System flow**
 
-`YouTube URL` → `Transcript Extraction` → `Chunking` → `Embeddings` → `FAISS` → `LLM Response`
+`Chatbot Adapter` → `Scripted Tasks` → `Conversation Logs (JSONL)` → `Metric Calculation` → `Normalized Scores` → `Chatbot Usability Score (CUS)`
+
+**My contribution**
+
+I worked on measuring and checking the five usability metrics: context retention, response time, helpful response ratio, lexical diversity, and error rate.
 
 **Tech stack**
 
-`Python` `LangChain` `FAISS` `Sentence Embeddings` `Groq` `Streamlit`
+`Python` `Rasa` `Ollama` `JSONL` `Prometheus 2` `MATTR-50`
 
 ---
+
 
 ## ◢ STACK
 
