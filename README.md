@@ -111,10 +111,6 @@ A Python-based framework that evaluates chatbot usability by running scripted co
 
 `Chatbot Adapter` → `Scripted Tasks` → `Conversation Logs (JSONL)` → `Metric Calculation` → `Normalized Scores` → `Chatbot Usability Score (CUS)`
 
-**My contribution**
-
-I worked on measuring and checking the five usability metrics: context retention, response time, helpful response ratio, lexical diversity, and error rate.
-
 **Tech stack**
 
 `Python` `Rasa` `Ollama` `JSONL` `Prometheus 2` `MATTR-50`
