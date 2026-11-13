@@ -206,7 +206,7 @@ Interested in collaborating on AI-powered applications, machine learning project
 
 **LEARN · BUILD · EVALUATE · IMPROVE**
 
-<sub>Yashika · AI / ML · Generative AI · Software Engineering</sub>
+<sub>· AI / ML · Generative AI · Software Engineering</sub>
 
 </div>
 ```
